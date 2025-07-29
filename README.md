@@ -23,6 +23,10 @@ The model was trained using the public dataset [Kvasir-SEG](https://arxiv.org/ab
 
 ## Learning Curves
 
+<p align="center">
+  <img width="867" height="475" alt="image" src="https://github.com/user-attachments/assets/705529df-fe26-4f25-b65d-364b94e618a6" />
+</p>
+
 ## Data
 You can download and unzip the Kvasir-SEG data from [here](https://github.com/joliveiraas/kvasir-seg).
 
