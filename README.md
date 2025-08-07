@@ -27,8 +27,5 @@ The model was trained using the public dataset [Kvasir-SEG](https://arxiv.org/ab
   <img width="867" height="475" alt="image" src="https://github.com/user-attachments/assets/705529df-fe26-4f25-b65d-364b94e618a6" />
 </p>
 
-## Data
-You can download and unzip the Kvasir-SEG data from [here](https://github.com/joliveiraas/kvasir-seg).
-
 ## HuggingFace Space 🤗
 Try out the project's [web demo](https://huggingface.co/spaces/joliveiraas/kvasir_polyp_seg)! 
